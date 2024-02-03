@@ -1,4 +1,4 @@
-from functions import load_data, sort_data, calculate, conver_to_table
+from functions import load_data, sort_data, calculate, conver_to_table, result
 
 
 def my_nba_analysis(filename):
